@@ -8,7 +8,7 @@
 1. **Клонирование репозитория**
 
     ```bash
-    git clone https://github.com/your-repo/personal_assistant_bot.git
+    git clone https://github.com/your-repo/prod_individual_final_2023.git
     ```
 
 2. **Настройка переменных окружения**
