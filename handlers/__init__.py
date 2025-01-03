@@ -1,0 +1,9 @@
+from .create_profile import router as create_profile_router
+from .edit_profile import router as edit_profile_router
+from .add_travels import router as add_travel_router
+from .commands import router as commands_router
+from .travel_notes import router as check_travels_router
+from .back_buttons_handlers import router as back_buttons_router
+from .invite_travelers import router as invite_travelers_router
+from .travel_points import router as travel_points_router
+from .travel_check_and_map import router as travel_check_and_map_router

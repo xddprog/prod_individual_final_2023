@@ -1,0 +1,8 @@
+aiogram==3.4.1
+asyncpg==0.29.0
+environs==11.0.0
+SQLAlchemy==2.0.28
+requests==2.31.0
+redis==5.0.3
+staticmap==0.5.7
+selenium==4.18.1
